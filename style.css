@@ -1,9 +1,13 @@
 p{
     text-align: center;
-color: rgb(0, 110, 255);}
+color: rgb(255, 255, 255);}
 
 h1{
     text-align: center;
     color: blueviolet;
-    background-color: rgb(80, 0, 126);
+    background-color: rgb(44, 5, 66);
+}
+
+body{
+    background-color: black;
 }
